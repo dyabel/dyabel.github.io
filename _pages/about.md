@@ -10,4 +10,4 @@ redirect_from:
 
 This is YU DU's Homepage
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/dyabel/github-readme-stats)
+[![dyabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyabel)](https://github.com/dyabel/github-readme-stats)
